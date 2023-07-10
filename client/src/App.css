@@ -1,0 +1,10 @@
+#you {
+    justify-content: flex-start;
+    background: rgb(106, 110, 106);
+}
+
+#orther {
+    justify-content: flex-start;
+    background:blue;
+
+}
